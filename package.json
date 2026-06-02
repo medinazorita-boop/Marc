@@ -1,14 +1,11 @@
 {
-  "name": "Marc",
-  "version": "2.0.0",
+  "name": "server-distribution-api",
+  "version": "1.0.0",
   "main": "server.js",
   "scripts": {
     "start": "node server.js"
   },
   "dependencies": {
     "express": "^4.18.2"
-  },
-  "engines": {
-    "node": ">=18.0.0"
   }
 }
