@@ -4,7 +4,7 @@ const app = express();
 app.use(express.json({ limit: '10mb' }));
 
 const PORT = process.env.PORT || 3000;
-const PLACE_ID = process.env.PLACE_ID || 109983668079237;
+const PLACE_ID = process.env.PLACE_ID || 96342491571673;
 
 const MIN_PLAYERS = 5;
 const MAX_PLAYERS = 7;
